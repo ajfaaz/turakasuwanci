@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989079130989",
+    "project_id": "turakasuwanci",
+    "storage_bucket": "turakasuwanci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989079130989:android:493b343b20c3e7f168c064",
+        "android_client_info": {
+          "package_name": "com.example.turakasuwanci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJeKAWwjO8bpqZ6xw3FwcwGJQQIF_wDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
